@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Background Remover",
+  "version": "1.0",
+  "description": "Upload images to remove.bg and download the background removed image.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "downloads"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "DirectRemoveBGIcon.png"
+    }
+  },
+  "icons": {
+    "16": "DirectRemoveBGIcon.png"
+  }
+}
