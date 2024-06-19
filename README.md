@@ -1,9 +1,9 @@
-# Background Remover Extension Documentation
+# DirectRemoveBG
 ![DirectRemoveBGNewIcon](https://github.com/saadmansakib47/DirectRemoveBG/assets/134169023/95838195-6552-4efe-a207-520e6667de7e)
 
 ## Overview
 
-The Background Remover Extension automates the process of removing backgrounds from images using the remove.bg API. This documentation provides guidelines on installing, configuring, and using the extension effectively.
+DirectRemoveBG is a browser extension which automates the process of removing backgrounds from images using the remove.bg API. This documentation provides guidelines on installing, configuring, and using the extension effectively.
 
 ## Setup
 
