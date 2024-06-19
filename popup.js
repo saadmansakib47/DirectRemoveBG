@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fetch('https://api.remove.bg/v1.0/removebg', {
             method: 'POST',
             headers: {
-                'X-Api-Key': 'RrfiQ6Q2jedQw8x1qZjPSdzu'  // Replace with your actual API key
+                'X-Api-Key': 'Remove.bg_API'  // Replace it with your actual API key
             },
             body: formData
         })
