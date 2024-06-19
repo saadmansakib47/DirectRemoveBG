@@ -18,14 +18,24 @@ The Background Remover Extension automates the process of removing backgrounds f
 2. Unzip the package to a local directory.
 3. Open Google Chrome and go to `chrome://extensions`.
 4. Enable **Developer mode** in the top right corner.
+![s4](https://github.com/saadmansakib47/DirectRemoveBG/assets/134169023/f18798c5-fa74-4c2f-994a-48b5353fb130)
+
 5. Click on **Load unpacked** and select the unzipped extension directory.
+![s5](https://github.com/saadmansakib47/DirectRemoveBG/assets/134169023/362c5f4f-649b-4856-8cf3-6776f28dbbb1)
+
 
 ## Usage
 
 ### Uploading an Image
 
 1. Click on the extension icon in the browser toolbar.
+
+![x1](https://github.com/saadmansakib47/DirectRemoveBG/assets/134169023/071043d3-b76d-4fe2-9dba-bdbb894a1ced)
+
 2. Select **Upload Image** and choose the image file you want to process.
+
+![x2](https://github.com/saadmansakib47/DirectRemoveBG/assets/134169023/515eb5ef-568e-4a8b-8d1b-4ba1e73663a1)
+
 
 ### Processing with remove.bg API
 
